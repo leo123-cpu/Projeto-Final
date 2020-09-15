@@ -5,7 +5,7 @@ html, body {
 }
 #imagem_fundo {
     background: url(88891.jpg);
-    height: 100%;
+    height: 101%;
     text-align: center;
     background-size: cover;
     text-shadow: 2px 2px black;
