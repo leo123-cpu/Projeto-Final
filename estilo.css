@@ -4,7 +4,7 @@ html, body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 #imagem_fundo {
-    background: url(imagens/88891.jpg);
+    background: url(88891.jpg);
     height: 100%;
     text-align: center;
     background-size: cover;
@@ -81,7 +81,7 @@ section {
     text-align: center;
 }
 header {
-    background: url(imagens/folhas.jpg) ;
+    background: url(folhas.jpg) ;
     background-size: cover;
     color: white;
     height: 71px;
